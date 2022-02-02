@@ -1,27 +1,27 @@
 {
-  "name": "qtuminfo",
+  "name": "qtepinfo",
   "private": true,
   "version": "0.0.1",
   "description": "",
   "scripts": {
-    "dev": "bin/qtuminfo-node.js start",
+    "dev": "bin/qtepinfo-node.js start",
     "lint": "eslint --ext .js . --ignore-path .gitignore"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qtumproject/qtuminfo.git"
+    "url": "git+https://github.com/xcoincoder/qtepinfo.git"
   },
   "keywords": [
-    "qtum",
-    "qtuminfo",
-    "qtum explorer"
+    "qtep",
+    "qtepinfo",
+    "qtep explorer"
   ],
-  "author": "QTUM <foundation@qtum.org>",
+  "author": "QTEP <foundation@qtep.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qtumproject/qtuminfo/issues"
+    "url": "https://github.com/xcoincoder/qtepinfo/issues"
   },
-  "homepage": "https://github.com/qtumproject/qtuminfo#readme",
+  "homepage": "https://github.com/xcoincoder/qtepinfo#readme",
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "eslint": "^6.4.0"
